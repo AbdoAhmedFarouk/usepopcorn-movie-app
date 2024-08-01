@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/usepopcorn-movie-app/static/css/main.8753b6f1.css",
-    "main.js": "/usepopcorn-movie-app/static/js/main.c5d89025.js",
+    "main.js": "/usepopcorn-movie-app/static/js/main.fad0d09e.js",
     "index.html": "/usepopcorn-movie-app/index.html",
     "main.8753b6f1.css.map": "/usepopcorn-movie-app/static/css/main.8753b6f1.css.map",
-    "main.c5d89025.js.map": "/usepopcorn-movie-app/static/js/main.c5d89025.js.map"
+    "main.fad0d09e.js.map": "/usepopcorn-movie-app/static/js/main.fad0d09e.js.map"
   },
   "entrypoints": [
     "static/css/main.8753b6f1.css",
-    "static/js/main.c5d89025.js"
+    "static/js/main.fad0d09e.js"
   ]
 }
